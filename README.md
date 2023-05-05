@@ -1,2 +1,5 @@
 # Facial_Keypoints_Detection
-data from kaggle competition
+
+Competition link: https://www.kaggle.com/competitions/facial-keypoints-detection/overview
+
+Using CNN model to dect facial signs.
